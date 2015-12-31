@@ -1,3 +1,3 @@
-# Bag Of Bits
+# Singularity
 
-Experimental.
+Experimental bag of bits.
