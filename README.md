@@ -1,3 +1,3 @@
-# LHC
+# Bag Of Bits
 
-This is an experimental bag of bits.
+Experimental.
