@@ -1,3 +1,3 @@
-# Singularity
+# Lab
 
 Experimental bag of bits.
